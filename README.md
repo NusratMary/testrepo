@@ -1,5 +1,5 @@
 # testrepo
 
-# my first git repo created
+## my first git repo created
 
-# to try something new
+to try something new
